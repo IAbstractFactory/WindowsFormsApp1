@@ -67,7 +67,7 @@ namespace WindowsFormsApp1
             this.ResumeLayout(false);
             this.Click += Form1_Click;
             this.BackColor = Color.White;
-            this.MouseDown += Form1_MouseDown;
+            
             this.MouseMove += Form1_MouseMove;
         }
 

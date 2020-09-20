@@ -48,11 +48,7 @@ namespace WindowsFormsApp1
         {
             g.Clear(Color.White);
         }
-        private void Form1_MouseDown(object sender, System.Windows.Forms.MouseEventArgs e)
-        {
-
-            
-        }
+        
         private void Form1_MouseMove(object sender, System.Windows.Forms.MouseEventArgs e)
         {
             if(e.Button==MouseButtons.Left)
